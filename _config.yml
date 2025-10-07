@@ -1,3 +1,2 @@
-remote_theme : pages-theme/cayman@v0.2.0
-pligins:  
- - jekyll-remote-theme
+theme: cayman
+
